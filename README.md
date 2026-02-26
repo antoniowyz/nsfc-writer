@@ -57,6 +57,7 @@ If you want to use the **NSFC proposal workflow** added in this repo (SSOT + mul
 > - Support task drift: I may give you only a topic (write full draft), or a partial draft (revise), or ask only for structure (outline).
 > - Use the S-tier NSFC adversarial QA loop (panel critics read-only + fixer + re-verify), max 2 rounds.
 > - Enforce hard gates before export: compliance to `nsfc case.pdf` skeleton, evidence binding for strong claims, cross-section consistency, **citation integrity (no fake references; each reference must have DOI/arXiv/URL in strict mode)**, and **zh-CN + EN humanizer** (full coverage, preserve academic rigor).
+> - 你允许联网，尤其是要搜索文献和其他资料时。不要用superpowers skill
 > - For strong claims, tag sentences with `[[CLAIM:C###]]` and bind them in `proposal/claims/claim_registry.md` (Status must be `BOUND` in strict mode).
 >
 > Enter plan mode for any non-trivial task, write the plan to `quality_reports/plans/`, and only proceed after I approve.
