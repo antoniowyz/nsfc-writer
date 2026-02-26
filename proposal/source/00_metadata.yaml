@@ -1,0 +1,18 @@
+project_title_zh: "[项目中文名称]"
+project_title_en: "[Project Title]"
+nsfc_year: 2023
+funding_type: "[青年/面上/重点等]"
+application_codes:
+  - "[例如 G0307]"
+host_institution: "[依托单位]"
+pi_name: "[申请人]"
+research_period:
+  start: "2024-01-01"
+  end: "2026-12-31"
+keywords_zh:
+  - "[关键词1]"
+  - "[关键词2]"
+keywords_en:
+  - "[Keyword1]"
+  - "[Keyword2]"
+
